@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ##### Once all the requirements are installed, run the following command :
 ```sh
-pip install -r requirements.txt
+python dl.py
 ```
 - Now Insert a valid Spotify URL and the process will start.
 - The default path for downloads will be your "Downloads" folder (both Windows and Linux)
