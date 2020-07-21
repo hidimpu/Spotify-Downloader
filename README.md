@@ -5,8 +5,8 @@
 ### ######## 
 <p align="center">
   <img src="./spdl.png" height="100px"/>
-  <br><br>
-  <b>Download audio files from spotify links</b>
+  <br><br><br>
+  <b>Download audio files using Spotify links</b>
   <br>
 </p>
 
