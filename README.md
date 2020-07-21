@@ -3,6 +3,12 @@
 #####    A Simple Python Script that enables you to extract mp3 using Spotify Links
 
 ### ######## 
+<p align="center">
+  <img src="./spdl.png" height="100px"/>
+  <br><br>
+  <b>Download audio files from spotify links</b>
+  <br>
+</p>
 
 
 ### Usage
