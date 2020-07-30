@@ -13,7 +13,7 @@
 
 
  #####  Make sure you have FFmpeg  on the same folder as the script file if you are on Linux or Mac
-  - Get it from <a href= "www.ffmpeg.org"> FFmpeg' official site </a> 
+  - Get it from FFmpeg's official site (www.ffmpeg.org) 
 
 ### Usage
 
